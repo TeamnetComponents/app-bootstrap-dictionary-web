@@ -1,0 +1,18 @@
+71260 error Error: ENOENT, lstat 'D:\JavaProjects\JavaComponents\app-bootstrap-dictionary-web\demo\node_modules\karma\node_modules\socket.io\node_modules\socket.io-client\node_modules\active-x-obfuscator\node_modules\zeparser\benchmark.html'
+71261 error If you need help, you may report this *entire* log,
+71261 error including the npm and node versions, at:
+71261 error     <http://github.com/npm/npm/issues>
+71262 error System Windows_NT 6.2.9200
+71263 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+71264 error cwd D:\JavaProjects\JavaComponents\app-bootstrap-dictionary-web\demo
+71265 error node -v v0.10.35
+71266 error npm -v 1.4.28
+71267 error path D:\JavaProjects\JavaComponents\app-bootstrap-dictionary-web\demo\node_modules\karma\node_modules\socket.io\node_modules\socket.io-client\node_modules\active-x-obfuscator\node_modules\zeparser\benchmark.html
+71268 error fstream_path D:\JavaProjects\JavaComponents\app-bootstrap-dictionary-web\demo\node_modules\karma\node_modules\socket.io\node_modules\socket.io-client\node_modules\active-x-obfuscator\node_modules\zeparser\benchmark.html
+71269 error fstream_type File
+71270 error fstream_class FileWriter
+71271 error code ENOENT
+71272 error errno 34
+71273 error fstream_stack C:\Program Files\nodejs\node_modules\npm\node_modules\fstream\lib\writer.js:287:26
+71273 error fstream_stack Object.oncomplete (evalmachine.<anonymous>:108:15)
+71274 verbose exit [ 34, true ]

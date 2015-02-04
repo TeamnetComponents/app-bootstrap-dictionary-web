@@ -1,0 +1,27 @@
+{
+  "name": "app-bootstrap-dictionary-web",
+  "version": "0.0.1",
+  "description": "This component...",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "http://git-components.teamnet.ro/summary/angular-component%2Fapp-bootstrap-dictionary-web.git",
+  "bugs": "http://git-components.teamnet.ro/tickets/angular-component%2Fapp-bootstrap-dictionary-web.git?sort=created&status=new&status=open&q=type:Bug",
+  "author": {
+    "name": "mihaela.petre",
+    "email": "mihaela.petre@teamnet.ro",
+    "url": "http://git-components.teamnet.ro/summary/angular-component%2Fapp-bootstrap-dictionary-web.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git-components.teamnet.ro/angular-component/app-bootstrap-dictionary-web.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "angular": ""
+  }
+}
