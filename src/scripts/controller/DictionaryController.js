@@ -3,6 +3,7 @@
  */
 bootstrapControllers.controller('DictionaryController',['$scope','dataDictionariesHttp', function ($scope, $dataDictionariesHttp) {
 
+  $scope.url = '/dictionary/rest/dictionaries';
   $scope.status; // http response status
   $scope.dictionariesHttp={}; //list of dictionaries
 
@@ -95,7 +96,7 @@ bootstrapControllers.controller('DictionaryController',['$scope','dataDictionari
       });
   };
 
-  getDictionaries();
+  //getDictionaries();
 
   // <-- end CRUD operations using $http service
 

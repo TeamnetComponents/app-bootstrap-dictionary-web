@@ -1,6 +1,6 @@
 <!-- Defining AngularJS main module for this demo -->
 var appAppBootstrapDictionaryWeb = angular.module('appAppBootstrapDictionaryWeb', ['angular-component.app-bootstrap-dictionary-web',
-  'ngRoute','ngResource']);
+  'ngRoute','ngResource','ngCookies']);
 
 appAppBootstrapDictionaryWeb
   .config(['$routeProvider',

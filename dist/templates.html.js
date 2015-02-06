@@ -4,4 +4,6 @@ angular.module('app-bootstrap-dictionary-webTemplate.html', []).run(['$templateC
     "<div>Hey</div>");
   $templateCache.put("template/dictionaries.html",
     "<div><h1>Dictionaries:</h1><br>{{dictionariesHttp}}</div>");
+  $templateCache.put("template/gridDictionaries.html",
+    "<div>URL: {{url}}<app-grid url=url></app-grid></div>");
 }]);
