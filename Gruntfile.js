@@ -313,7 +313,7 @@ module.exports = function(grunt) {
     'html2js',
     'cssmin:dist',
     'imagemin',
-   // 'ngmin:dist',
+    'ngmin:dist',
     'concat',
     'uglify:dist',
     'copy:main'
